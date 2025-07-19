@@ -2996,6 +2996,7 @@ dependencies = [
     { name = "setuptools" },
     { name = "speedtest-cli" },
     { name = "torch" },
+    { name = "tqdm" },
     { name = "transformers" },
     { name = "twilio" },
 ]
@@ -3038,6 +3039,7 @@ requires-dist = [
     { name = "setuptools" },
     { name = "speedtest-cli" },
     { name = "torch" },
+    { name = "tqdm", specifier = ">=4.67.1" },
     { name = "transformers" },
     { name = "twilio" },
 ]

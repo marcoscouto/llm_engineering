@@ -41,6 +41,7 @@ dependencies = [
   "feedparser",
   "twilio",
   "pydub",
-  "protobuf==3.20.2"
+  "protobuf==3.20.2",
+  "tqdm>=4.67.1",
 ]
 
